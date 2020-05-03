@@ -1,0 +1,5 @@
+
+1. Setup a GCP environment
+2. Create Kubernetes POds
+3. Create Servcies- ClusterIP Internal
+4. Create Services - LoadBalancer - External
